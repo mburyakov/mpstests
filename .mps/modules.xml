@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/MoveNodeLang/MoveNodeLang.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/MoveNodeLang/runtime/MoveNodeLang.runtime.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/clext/clext.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/clext/runtime/clext.runtime.msd" folder="" />
+    </projectModules>
+  </component>
+</project>
